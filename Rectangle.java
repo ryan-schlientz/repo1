@@ -11,6 +11,11 @@
 			width   = 1;
 			
 		}
+         	//Constructor
+       public Rectangle (int hig, int wid)
+      {  height = hig;
+         width = wid;
+      }
           
 		//Sets instance fields
 		public void setHeight( int len)
